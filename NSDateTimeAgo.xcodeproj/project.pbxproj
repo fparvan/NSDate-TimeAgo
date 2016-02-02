@@ -8,10 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		833CD37C1BCD9BD90085A751 /* NSDateTimeAgo.h in Headers */ = {isa = PBXBuildFile; fileRef = 833CD37B1BCD9BD90085A751 /* NSDateTimeAgo.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		838CF4311BCD9CB900562CA9 /* NSDate+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 838CF4301BCD9CB900562CA9 /* NSDate+Extension.swift */; settings = {ASSET_TAGS = (); }; };
-		838CF4331BCD9CFF00562CA9 /* NSDateTimeAgo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 838CF4321BCD9CFF00562CA9 /* NSDateTimeAgo.bundle */; settings = {ASSET_TAGS = (); }; };
+		838CF4311BCD9CB900562CA9 /* NSDate+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 838CF4301BCD9CB900562CA9 /* NSDate+Extension.swift */; };
+		838CF4331BCD9CFF00562CA9 /* NSDateTimeAgo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 838CF4321BCD9CFF00562CA9 /* NSDateTimeAgo.bundle */; };
 		83AC390C1BD066C500A9C7F7 /* NSDateTimeAgoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83AC390B1BD066C500A9C7F7 /* NSDateTimeAgoTests.swift */; };
-		83AC390E1BD066C500A9C7F7 /* NSDateTimeAgo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 833CD3781BCD9BD90085A751 /* NSDateTimeAgo.framework */; settings = {ASSET_TAGS = (); }; };
+		83AC390E1BD066C500A9C7F7 /* NSDateTimeAgo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 833CD3781BCD9BD90085A751 /* NSDateTimeAgo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -398,6 +398,7 @@
 				83AC39121BD066C500A9C7F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
